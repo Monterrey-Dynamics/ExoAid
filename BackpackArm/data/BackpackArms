@@ -1,0 +1,10 @@
+Control for backpack arms
+LR	Left arm move left or right	3	SLIDER	Eje X	0	1.0	0.0
+UD	Left arm move up or down	3	SLIDER	Eje Y	0	1.0	0.0
+lr	Right arm move left or right	3	SLIDER	Rotación X	0	1.0	0.0
+ud	Right arm move up or down	3	SLIDER	Rotación Y	0	1.0	0.0
+Grips	Right and Left close and open hand	3	SLIDER	Eje Z	0	1.0	0.0
+LeftElbow	Toggle left elbow position	1	BUTTON	Botón 4	0	0.0	0.0
+RightElbow	Togle right elbow position	1	BUTTON	Botón 5	0	0.0	0.0
+A	Deploy	1	BUTTON	Botón 0	0	0.0	0.0
+B	Turn off	1	BUTTON	Botón 1	0	0.0	0.0
